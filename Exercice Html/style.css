@@ -6,3 +6,6 @@ p{
 h2{
 	display: list-item;
 }
+span{
+	display: block;
+}
