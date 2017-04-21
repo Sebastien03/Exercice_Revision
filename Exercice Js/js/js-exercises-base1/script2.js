@@ -1,4 +1,4 @@
-var nom=  document.forms["nom"];
+
 var bouton= document.getElementById("valider");
 
 bouton.addEventListener("click", function() {
