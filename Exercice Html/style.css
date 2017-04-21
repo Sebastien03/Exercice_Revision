@@ -3,3 +3,6 @@ p{
 	width: 700px;
 	overflow: hidden;
 }
+h2{
+	display: list-item;
+}
